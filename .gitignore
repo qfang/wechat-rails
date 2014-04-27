@@ -5,6 +5,7 @@
 .rspec
 .ruby-version
 .ruby-gemset
+.idea/*.*
 Gemfile.lock
 log/*.log
 pkg/
