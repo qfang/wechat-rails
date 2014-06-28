@@ -2,7 +2,7 @@ version = File.read(File.expand_path('../VERSION', __FILE__)).strip
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.author       = 'Skinnyworm'
+  s.author       = 'qfang'
   s.email        = 'askinnyworm@gmail.com'
   s.homepage     = 'https://github.com/qfang/wechat-rails'
 
